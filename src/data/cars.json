@@ -1,0 +1,344 @@
+
+[
+    {
+        "id" : 1,
+        "carBrand":"Toyota",
+        "carName" : "RAV4",
+        "carImage" : "https://cdn.carbuzz.com/gallery-images/1600/681000/500/681571.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carPrice":440,
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+        
+    },
+    {
+        "id" : 2,
+        "carBrand":"BMW",
+        "carName" : "3 Series",
+        "carImage" : "https://mediacloud.carbuyer.co.uk/image/private/s--hZkf71Yq--/v1579631359/carbuyer/2018/10/p90323664_highres.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "carPrice":440,
+        "isAutomatic" : true
+
+    },
+    {
+        "id" : 3,
+        "carBrand":"BMW",
+        "carName" : "4 Series GTI",
+        "carImage" : "https://th.bing.com/th/id/OIP.zwR-oXLQoFR82jrjUXpT_wHaE5?pid=ImgDet&rs=1",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carPrice":440,
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+
+    },
+    {
+        "id" : 4,
+        "carBrand":"Volkwagen",
+        "carName" : "T-Cross",
+        "carImage" : "https://3.bp.blogspot.com/-X-9Gv1BC8G4/UM1e-2YAdCI/AAAAAAAAAA4/aQzqokL2yjc/s1600/world-top-exotic-car-wall-2d4fb.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "carPrice":440,
+        "isAutomatic" : true
+
+    },
+    {
+        "id" : 5,
+        "carBrand":"Cadillac",
+        "carName" : "Escallade",
+        "carImage" : "https://th.bing.com/th/id/OIP.L7JjhyfiBDK4LIy3G0Tj3QHaE8?pid=ImgDet&rs=1",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true,
+        "carPrice":440
+
+    },
+    {
+        "id" : 6,
+        "carBrand":"BMW",
+        "carName" : "4 Series",
+        "carImage" : "https://mediacloud.carbuyer.co.uk/image/private/s--hZkf71Yq--/v1579631359/carbuyer/2018/10/p90323664_highres.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+
+    },
+    {
+        "id" : 7,
+        "carBrand":"Lamborghini",
+        "carName" : "Gallardo",
+        "carImage" : "https://ag-spots-2017.o.auroraobjects.eu/2017/11/19/other/2880-1800-crop-lamborghini-gallardo-superleggera-c575019112017154230_1.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true,
+        "carPrice":440
+        
+    },
+    {
+        "id" : 8,
+        "carBrand":"Maruti Suzuki",
+        "carName" : "800",
+        "carImage" : "https://mediacloud.carbuyer.co.uk/image/private/s--hZkf71Yq--/v1579631359/carbuyer/2018/10/p90323664_highres.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "carPrice":"440",
+        "isAutomatic" : true
+        
+    },
+    {
+        "id" : 9,
+        "carBrand":"Hyundai",
+        "carName" : "i10",
+        "carPrice":"440",
+        "carImage" : "https://cdn.motor1.com/images/mgl/Wxxe1/s1/hyundai-i10-1.0.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 9,
+        "carPrice":440,
+        "carBrand":"Hyundai",
+        "carName" : "i20",
+        "carImage" : "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http:%2f%2fcdni.autocarindia.com%2fExtraImages%2f20130919082726_i20.jpg&h=578&w=872&c=0&q=100",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 10,
+        "carPrice":440,
+        "carBrand":"Mahindra",
+        "carName" : "XUV 500",
+        "carImage" : "https://th.bing.com/th/id/R.622bd2b82c905a3e5d6cc625feaedaae?rik=Gx8qOydqokrJcA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-oZExnsR7OOo%2fUEyT2l-wpUI%2fAAAAAAAAAm4%2frOWLSoZxGSc%2fs1600%2fSABIC-Mahindra-XUV500-Photo-high-res.gif&ehk=0YoIaFOL0GpjIYVbsmbNl9zt7g8v8%2bIXHDUP7iSBwK8%3d&risl=&pid=ImgRaw&r=0",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 11,
+         "carPrice":440,
+         "carBrand":"Hyundai",
+         "carName" : "Santa Fe",
+         "carImage" : "https://thegreencarguy.com/wp-content/uploads/2020/10/GCG_221_Hyundai_SantaFe_lf34actn-scaled.jpg",
+         "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 12,
+        "carBrand" : "Tesla",
+        "carName" : "GT",
+        "carImage" : "https://techbits254.files.wordpress.com/2016/03/tesla-model-s2.jpg?w=736",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carPrice":440,
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 13,
+        "carBrand":"Toyota",
+        "carName" : "RAV4",
+        "carImage" : "https://cdn.carbuzz.com/gallery-images/1600/681000/500/681571.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carPrice":440,
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+        
+    },
+    {
+        "id" : 14,
+        "carBrand":"BMW",
+        "carName" : "X6",
+        "carImage" : "https://media.zigcdn.com/media/model/2020/Jun/front-1-4-left-652386419_930x620.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "carPrice":440,
+        "isAutomatic" : true
+
+    },
+    {
+        "id" : 15,
+        "carBrand":"BMW",
+        "carName" : "4 Series GTI",
+        "carImage" : "https://th.bing.com/th/id/OIP.zwR-oXLQoFR82jrjUXpT_wHaE5?pid=ImgDet&rs=1",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carPrice":440,
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+
+    },
+    {
+        "id" : 16,
+        "carBrand":"Volkwagen",
+        "carName" : "T-Cross",
+        "carImage" : "https://3.bp.blogspot.com/-X-9Gv1BC8G4/UM1e-2YAdCI/AAAAAAAAAA4/aQzqokL2yjc/s1600/world-top-exotic-car-wall-2d4fb.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "carPrice":440,
+        "isAutomatic" : true
+
+    },
+    {
+        "id" : 17,
+        "carBrand":"Cadillac",
+        "carName" : "Escallade",
+        "carImage" : "https://th.bing.com/th/id/OIP.L7JjhyfiBDK4LIy3G0Tj3QHaE8?pid=ImgDet&rs=1",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true,
+        "carPrice":440
+
+    },
+    {
+        "id" : 18,
+        "carBrand":"BMW",
+        "carName" : "4 Series",
+        "carImage" : "https://mediacloud.carbuyer.co.uk/image/private/s--hZkf71Yq--/v1579631359/carbuyer/2018/10/p90323664_highres.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+
+    },
+    {
+        "id" : 19,
+        "carBrand":"Lamborghini",
+        "carName" : "Gallardo",
+        "carImage" : "https://ag-spots-2017.o.auroraobjects.eu/2017/11/19/other/2880-1800-crop-lamborghini-gallardo-superleggera-c575019112017154230_1.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true,
+        "carPrice":440
+        
+    },
+    {
+        "id" : 20,
+        "carBrand":"Maruti Suzuki",
+        "carName" : "800",
+        "carImage" : "https://mediacloud.carbuyer.co.uk/image/private/s--hZkf71Yq--/v1579631359/carbuyer/2018/10/p90323664_highres.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "carPrice":"440",
+        "isAutomatic" : true
+        
+    },
+    {
+        "id" : 21,
+        "carBrand":"Hyundai",
+        "carName" : "i10",
+        "carPrice":"440",
+        "carImage" : "https://mediacloud.carbuyer.co.uk/image/private/s--hZkf71Yq--/v1579631359/carbuyer/2018/10/p90323664_highres.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 22,
+        "carPrice":440,
+        "carBrand":"Hyundai",
+        "carName" : "i10",
+        "carImage" : "https://mediacloud.carbuyer.co.uk/image/private/s--hZkf71Yq--/v1579631359/carbuyer/2018/10/p90323664_highres.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 23,
+        "carPrice":440,
+        "carBrand":"Mahindra",
+        "carName" : "Thar",
+        "carImage" : "https://gaadiwaadi.com/wp-content/uploads/2020/11/mahindra-thar-deliveries-1-2-1235x720.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 24,
+         "carPrice":440,
+         "carBrand":"Hyundai",
+         "carName" : "Santa Fe",
+         "carImage" : "https://thegreencarguy.com/wp-content/uploads/2020/10/GCG_221_Hyundai_SantaFe_lf34actn-scaled.jpg",
+         "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 25,
+        "carBrand" : "Tesla",
+        "carName" : "GT",
+        "carImage" : "https://techbits254.files.wordpress.com/2016/03/tesla-model-s2.jpg?w=736",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carPrice":440,
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    },
+    {
+        "id" : 26,
+        "carBrand" : "Mercedes",
+        "carName" : "X Class",
+        "carImage" : "https://car-images.bauersecure.com/wp-images/1641/mercedes_x-class_v6.44.jpg",
+        "carYear" : 2021,
+        "carCapacity" : 4,
+        "carType" : "hybrid",
+        "carPrice":440,
+        "carMileage" : 6.1,
+        "isAutomatic" : true
+    }
+    
+  
+    
+]
